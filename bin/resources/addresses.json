@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "type": {
+            "code": "1",
+            "name": "Physical Address"
+        },
+        "addressLineDetail": {
+            "line1": "Address 1",
+            "line2": "Line 2"
+        },
+        "provinceOrState": {
+            "code": "5",
+            "name": "Eastern Cape"
+        },
+        "cityOrTown": "City 1",
+        "country": {
+            "code": "ZA",
+            "name": "South Africa"
+        },
+        "postalCode": "1234",
+        "lastUpdated": "2015-06-21T00:00:00.000Z"
+    },
+    {
+        "id": "2",
+        "type": {
+            "code": "2",
+            "name": "Postal Address"
+        },
+        "cityOrTown": "City 2",
+        "country": {
+            "code": "LB",
+            "name": "Lebanon"
+        },
+        "postalCode": "2345",
+        "lastUpdated": "2017-06-21T00:00:00.000Z"
+    },
+    {
+        "id": "3",
+        "type": {
+            "code": "5",
+            "name": "Business Address"
+        },
+        "addressLineDetail": {
+            "line1": "Address 3",
+            "line2": ""
+        },
+        "cityOrTown": "City 3",
+        "country": {
+            "code": "ZA",
+            "name": "South Africa"
+        },
+        "postalCode": "3456",
+        "suburbOrDistrict": "Suburb 3",
+        "lastUpdated": "2018-06-13T00:00:00.000Z"
+    }
+]
